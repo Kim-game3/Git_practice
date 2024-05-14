@@ -1,2 +1,2 @@
 # Git_practice
-ローカルで編集しました
+GitHubで編集しました
